@@ -10,8 +10,8 @@
 body {
     background-color: lightblue;
     margin-top: 60px;
-    margin-left:15px;
-    margin-right:15px;
+    margin-left:50px;
+    margin-right:50px;
     
 }
 
@@ -44,4 +44,8 @@ ul {
 
 .contact {
     margin-bottom: 50px;
+    margin-left:25px;
+}
+.contacth {
+    margin-right:50px;
 }
